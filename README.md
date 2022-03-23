@@ -5,7 +5,7 @@
   
  ## Codigo Fonte
  - APP basicos feitos durante os modulos
- - APPs mais complexos ficaram em modulos se parados
+ - APPs mais complexos ficaram em modulos separados
    
     
     
